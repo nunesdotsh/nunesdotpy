@@ -1,8 +1,8 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=nunesdotpy" alt="nunesdotpy" /></p>
 
-<h1 align = "left"> Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Vitor Nunes (nunesdotpy)</h1>
+<h1 align = "left"> Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am João Nunes (nunesdotpy)</h1>
 
-<p align = "justify">Hi, my name is Vitor Nunes, also know as Nunes, I am a brazilian computational science student who loves front-end web development, blockchain and decentralized projects.
+<p align = "justify">Hi, my name is João Nunes, also know as Nunes, I am a brazilian computational science student who loves front-end web development, blockchain and decentralized projects.
 
 Here you'll find some projects and study repos made by me. Feel free to navigate and make contributions</p>
 
