@@ -22,4 +22,4 @@ Here you'll find some projects and study repos made by me. Feel free to navigate
 ## ⚡ GitHub Stats
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=nunesdotpy&theme=dracula&hide=html"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nunesdotpy&theme=dracula&hide=html"/></a>
 <a href="https://github-readme-stats.vercel.app/api?username=nunesdotpy&theme=dracula&show_icons=true"><img align="left" src="https://github-readme-stats.vercel.app/api?username=nunesdotpy&show_icons=true&theme=dracula"/></a>
-<a href=""><img width="494" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunesdotpy&layout=compact&theme=dracula"/></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nunesdotpy&layout=compact&theme=dracula"><img width="494" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunesdotpy&layout=compact&theme=dracula"/></a>
